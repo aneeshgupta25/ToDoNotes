@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoNotesFinal</string>
+    <string name="shared_preferences">PREFERENCE_CONSTANT</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

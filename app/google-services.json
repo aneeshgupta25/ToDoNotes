@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215168391907",
+    "project_id": "todo-da45a",
+    "storage_bucket": "todo-da45a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215168391907:android:f08bd278f0745f0db743d6",
+        "android_client_info": {
+          "package_name": "com.aneesh.todonotesfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215168391907-q9bmr1l3oqfuhnvhpffvf5563olmelth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk9E9vwpCvcCqHG8NKVdjXES_1l4ArA4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215168391907-q9bmr1l3oqfuhnvhpffvf5563olmelth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
