@@ -54,4 +54,5 @@ dependencies {
     implementation 'com.google.firebase:firebase-messaging:19.0.1'
     implementation 'com.amitshekhar.android:android-networking:1.0.2'
     implementation 'androidx.viewpager:viewpager:1.0.0'
+    implementation 'androidx.viewpager2:viewpager2:1.0.0'
 }

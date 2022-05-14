@@ -2,4 +2,25 @@
     <string name="app_name">ToDoNotesFinal</string>
     <string name="shared_preferences">PREFERENCE_CONSTANT</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">NEXT</string>
+    <string name="we_ll_keep_it_updated_for_you">We\'ll keep it updated for you :)</string>
+    <string name="don_t_forget_to_tick_the_ones_you_have_completed">Don\'t forget to tick the ones you have completed !</string>
+    <string name="just_put_a_title_and_description_of_your_note">Just put a title and description of your note</string>
+    <string name="all_your_notes_at_one_place">All Your Notes at one place...</string>
+    <string name="organise_it_with_perfection">Organise it with perfection</string>
+    <string name="add_notes_with_image_either_from_camera_or_gallery">Add Notes with Image either from Camera or Gallery</string>
+    <string name="done">DONE</string>
+    <string name="back">BACK</string>
+    <string name="your_to_do_notes_app">Your To-Do Notes App</string>
+    <string name="welcome">WELCOME</string>
+    <string name="plan_and_record_your_todo_on_your_phone">Plan and record your todo on your phone</string>
+    <string name="login">LOGIN</string>
+    <string name="user_name">User Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="select_image">Select Image</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="select_picker">Select Picker</string>
 </resources>

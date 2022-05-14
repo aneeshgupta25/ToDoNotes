@@ -23,7 +23,7 @@
 
         </activity>
         <activity
-            android:name=".activity.BlogActivity"
+            android:name=".blog.BlogActivity"
             android:exported="false" />
 
         <provider
@@ -36,7 +36,7 @@
         </provider>
 
         <service
-            android:name=".fcm.MyFirebaseMessagingService"
+            android:name="com.aneesh.todonotesfinal.utils.fcm.MyFirebaseMessagingService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
@@ -44,13 +44,14 @@
         </service>
 
         <activity
-            android:name=".activity.AddNotesActivity"
+            android:name=".addNotes.AddNotesActivity"
+            android:theme="@style/NoToolBar"
             android:exported="false" />
         <activity
-            android:name=".activity.DetailActivity"
+            android:name=".detail.DetailActivity"
             android:exported="false" />
         <activity
-            android:name=".activity.SplashActivity"
+            android:name=".splash.SplashActivity"
             android:theme="@style/NoToolBar"
             android:exported="true">
             <intent-filter>
@@ -60,13 +61,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activity.MyNotesActivity"
+            android:name=".myNotes.MyNotesActivity"
             android:exported="false" />
         <activity
-            android:name=".activity.LoginActivity"
-            android:exported="false" />
-        <activity
-            android:name=".activity.MainActivity"
+            android:name=".login.LoginActivity"
+            android:theme="@style/NoToolBar"
             android:exported="false" />
     </application>
 

@@ -6,13 +6,14 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
 import android.widget.TextView
 import com.aneesh.todonotesfinal.R
 
 class OnBoardingTwoFragment : Fragment() {
 
-    lateinit var textViewDone : TextView
-    lateinit var textViewBack : TextView
+    lateinit var buttonDone : Button
+    lateinit var buttonBack : Button
     lateinit var onOptionsClick : OnOptionClick
 
     override fun onAttach(context: Context) {
@@ -34,19 +35,19 @@ class OnBoardingTwoFragment : Fragment() {
     }
 
     private fun onBindView(view : View) {
-        textViewDone = view.findViewById(R.id.textViewDone)
-        textViewBack = view.findViewById(R.id.textViewBack)
+        buttonDone = view.findViewById(R.id.buttonDone)
+        buttonBack = view.findViewById(R.id.buttonBack)
         clickListener()
     }
 
     private fun clickListener() {
-        textViewDone.setOnClickListener(object : View.OnClickListener{
+        buttonDone.setOnClickListener(object : View.OnClickListener{
             override fun onClick(v: View?) {
                 onOptionsClick.onOptionDone()
             }
         })
 
-        textViewBack.setOnClickListener(object : View.OnClickListener{
+        buttonBack.setOnClickListener(object : View.OnClickListener{
             override fun onClick(v: View?) {
                 onOptionsClick.onOptionBack()
             }

@@ -2,7 +2,7 @@ package com.aneesh.todonotesfinal
 
 import android.app.Application
 import com.androidnetworking.AndroidNetworking
-import com.aneesh.todonotesfinal.db.NotesDatabase
+import com.aneesh.todonotesfinal.data.local.db.NotesDatabase
 
 class NotesApp : Application() {
     override fun onCreate() {
@@ -10,7 +10,7 @@ class NotesApp : Application() {
         AndroidNetworking.initialize(applicationContext)
     }
 
-    fun getNotesDb() : NotesDatabase{
+    fun getNotesDb() : NotesDatabase {
         return NotesDatabase.getInstance(this)
     }
 }
