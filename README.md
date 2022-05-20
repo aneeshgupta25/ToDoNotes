@@ -33,4 +33,19 @@ The App provides following functionalities ->
 </p>
 6. <b> Final Home Screen After Adding Notes </b>
 <img src="https://user-images.githubusercontent.com/77202061/169562778-2d5485fe-7947-4b1a-b964-21cfe83ebd40.jpeg" width="200" height="400" />
-7. <b> 
+7. <b> Detailed Note (When a Note is Clicked) </b>
+<img src="https://user-images.githubusercontent.com/77202061/169567340-855d6a6e-301a-442b-a51f-5a701e3ceb89.jpeg" width="200" height="400" />
+8. <b> CheckBoxing the last note </b> and <b> WorkManager Removes It </b>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/77202061/169565195-ec9d80a8-e4c9-4a45-a947-24d76183c540.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169565190-c401f246-631f-48a6-bfd9-de3281a87c59.jpeg" width="200" height="400" />
+</p>
+9. <b> Blogs Screen </b>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/77202061/169565683-10308cf2-69be-47f3-8099-b1cc319e6e64.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169566750-a5a1f6bc-2c06-4c6a-8c07-5f78644478ab.jpeg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169566756-5b929e83-c218-43e9-a119-5b59a650906d.jpeg" height="400" />
+  <img src="https://user-images.githubusercontent.com/77202061/169566758-63d1c4c4-c752-434e-b282-a19b2de9b683.jpeg" width="200" height="400" />
+</p>
+
+# HOPE THIS LIST OF NOTES MADE YOUR LIFE EASIER :)
